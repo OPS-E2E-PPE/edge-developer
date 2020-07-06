@@ -18,7 +18,7 @@ manager: "jken"
 Type enumeration of a JavaScript property.  
   
 ## Syntax  
-  
+  test34
 ```cpp  
 enum JsPropertyIdType;  
 ```  
