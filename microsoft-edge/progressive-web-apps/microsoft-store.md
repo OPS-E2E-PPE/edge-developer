@@ -9,7 +9,7 @@ ms.prod: microsoft-edge
 keywords: progressive web apps, PWA, Edge, Windows, Microsoft Store, Bing PWA index
 ---
 
-# Progressive Web Apps in the Microsoft Store
+# Tailor your PWA for Windows
 
 When you publish your Progressive Web App (PWA) to the [Microsoft Store](https://developer.microsoft.com/en-us/store), your potential app audience expands to the entire Windows 10 install base of nearly 700 million active monthly users! 
 
