@@ -10,7 +10,7 @@ ms.prod: microsoft-edge
 ms.topic: landing-page
 keywords: microsoft edge, edgehtml, devtools, f12 tools, pwa, extensions, webdriver, webview
 ---
-# Microsoft Edge developer documentation
+# Tailor your PWA for Windows
 
 Microsoft Edge is the browser built for Windows 10, providing fast, safe, and productive web experiences. Here are all the developer features and tools available to you in Microsoft Edge and the EdgeHTML engine.
 <ul class="panelContent cardsFTitle">
