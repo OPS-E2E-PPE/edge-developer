@@ -1,5 +1,5 @@
 ---
-title: What's new in EdgeHTML 18
+title: Tailor your PWA for Windows
 description: This guide provides an overview of the developer features and standards included in Microsoft Edge.
 author: mattwojo
 ms.author: mattwoj
